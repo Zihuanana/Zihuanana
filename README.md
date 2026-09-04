@@ -32,15 +32,15 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/cuchic-community-lab/campus-onboarding-copilot"><b>campus-onboarding-copilot</b></a> <sub>小海GPT</sub><br>
-      <sub>组织项目 · 我参与开发</sub><br>
+      <a href="https://github.com/cuchic-community-lab/campus-onboarding-copilot/tree/xiaohaigpt"><b>campus-onboarding-copilot/xiaohaigpt</b></a> <sub>XiaohaiGPT</sub><br>
+      <sub>组织项目的个人分支</sub><br>
       <img alt="RAG" src="https://img.shields.io/badge/RAG%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white">
       <img alt="Web" src="https://img.shields.io/badge/Web-0969DA?style=flat-square&logo=googlechrome&logoColor=white">
     </td>
     <td>
       面向新生入学的<b>知识库问答 RAG Copilot</b>：知识库注入与管理后台、检索增强多轮问答、会话日志统计、Web 前端与部署上线。<br>
-      原型源于同伴；我加入后承担了约 <b>80%</b> 的后续开发与上线工作。
+      初始原型来源于同伴，我基于自己的分支独立形成完整系统并上线。
     </td>
   </tr>
 </table>
