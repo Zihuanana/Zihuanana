@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jiaan Zhao · @Zihuanana" width="100%">
+  <img src="assets/banner-purple.svg" alt="Jiaan Zhao · @Zihuanana" width="100%">
 </p>
 
 <p align="center">
